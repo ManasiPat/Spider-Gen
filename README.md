@@ -1,0 +1,1 @@
+# Spider-Gen: A Benchmark Dataset for Generalizability and Few-shot Transfer in Text-to-SQL Semantic Parsing
